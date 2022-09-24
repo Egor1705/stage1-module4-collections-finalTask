@@ -12,7 +12,7 @@ List<String> list = new ArrayList<>();
                 }
 
         }
-        Collections.reverse(list);
+        // Collections.reverse(list);
         return list;
     }
 }
